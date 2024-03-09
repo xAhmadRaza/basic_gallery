@@ -51,7 +51,7 @@ body {
   -webkit-filter: drop-shadow(2px 2px #333);
   filter: drop-shadow(0 0 0 2px #333);
   color: transparent;
-   animation: slide-colors 5s linear infinite forwards; 
+  animation: slide-colors 4s linear infinite forwards;
 }
 
 .gallery_items {
